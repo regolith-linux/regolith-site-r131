@@ -1,0 +1,798 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regolith – Reference</title>
+    <link>https://regolith-linux.org/regolith-site-r131/docs/reference/</link>
+    <description>Recent content in Reference on Regolith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://regolith-linux.org/regolith-site-r131/docs/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Keybindings</title>
+      <link>https://regolith-linux.org/regolith-site-r131/docs/reference/keybindings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://regolith-linux.org/regolith-site-r131/docs/reference/keybindings/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;th&gt;Key Binding&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Launch Terminal&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Launch Browser&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;App Launcher&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Space&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Command Launcher&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;Space&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Launch File Browser&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;n&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Window Navigate&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Ctrl&lt;/code&gt;-&lt;code&gt;Space&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move between Windows&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Arrow Keys&lt;/code&gt; or vim keys&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move Windows&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;Arrow Keys&lt;/code&gt; or vim keys&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Toggle Vertical and Horizontal Layout Mode&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Backspace&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Focused Window Fullscreen Toggle&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;f&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Focused Window Float Toggle&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;F&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Toggle Keybinding Helper&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;?&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Toggle the bar&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;i&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Focused Window Floating Toggle&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;F&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move to Workspace 1 - 10&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;1 - 0&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move to Workspace 10 - 19&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Ctrl&lt;/code&gt;-&lt;code&gt;1 - 9&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Take to Workspace 1 - 10&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Alt&lt;/code&gt;-&lt;code&gt;1 - 0&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Take to Workspace 10 - 19&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Ctrl&lt;/code&gt;-&lt;code&gt;Alt&lt;/code&gt;-&lt;code&gt;1 - 9&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move to Next Workspace&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Tab&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move to Previous Workspace&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;Tab&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Layout Toggle (tabbed, horizontal, vertical)&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;t&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Reload i3 Config&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;C&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Control Panel&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;c&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Configure Bluetooth&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;b&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Configure Wifi&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;w&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Enter Window Resize Mode&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;r&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Change Window Size in Resize Mode&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;arrow keys&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Increase or Decrease Window Gaps in Resize Mode&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;+&lt;/code&gt; and &lt;code&gt;-&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exit Resize Mode&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Escape&lt;/code&gt; or &lt;code&gt;Enter&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kill Focused Window&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;q&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Close Terminal&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ctrl&lt;/code&gt;-&lt;code&gt;d&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Close (Some) Windows&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ctrl&lt;/code&gt;-&lt;code&gt;w&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exit (Some) Apps&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;Ctrl&lt;/code&gt;-&lt;code&gt;q&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exit Session&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;E&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Suspend Computer&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;S&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Reboot Computer&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;B&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Power Off Computer&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;⊞ Win&lt;/code&gt;-&lt;code&gt;Shift&lt;/code&gt;-&lt;code&gt;P&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Config Files</title>
+      <link>https://regolith-linux.org/regolith-site-r131/docs/reference/configurations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://regolith-linux.org/regolith-site-r131/docs/reference/configurations/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Component&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Default Config&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;User Config&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Notes&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-gaps&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/etc/regolith/i3/config&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;~/.config/regolith/i3/config&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;In Regolith versions prior to 1.2 this file was in another directory.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xresources&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/etc/regolith/styles/root&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;~/.Xresources-regolith&lt;/code&gt; (Global override)&lt;br/&gt;&lt;code&gt;~/.config/regolith/Xresources&lt;/code&gt; (Override)&lt;br/&gt;&lt;code&gt;~/.config/regolith/Xresources.d&lt;/code&gt; (User files)&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;~/.Xresources&lt;/code&gt; is also loaded but intended for properties that may also be required in other desktop sessions.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rofi&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/etc/regolith/styles/cahuella/rofi.rasi&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Defined in the &lt;code&gt;theme&lt;/code&gt; style file.&lt;/td&gt;
+&lt;td&gt;This can also be overridden directly in the i3 file if preferred.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bar Workspace Labels&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/etc/regolith/styles/i3-wm&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;User defined&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bar status indicators&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/etc/regolith/i3xrocks/config&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;User defined (i3 config)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Picom (Compton) Compositor&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/etc/regolith/compton/config&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;load-sequence&#34;&gt;Load Sequence&lt;/h2&gt;
+&lt;p&gt;Upon session start, Regolith loads configuration files in the following order:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;/usr/bin/i3-gnome-flashback&lt;/code&gt; executes after successful login&lt;/li&gt;
+&lt;li&gt;Load Xresource file &lt;code&gt;~/.Xresources&lt;/code&gt; if it exists.&lt;/li&gt;
+&lt;li&gt;Load Xresource file &lt;code&gt;~/.Xresources-regolith&lt;/code&gt; if it exists.&lt;/li&gt;
+&lt;li&gt;Merge any values from file &lt;code&gt;~/.config/regolith/Xresources&lt;/code&gt; if it exists.&lt;/li&gt;
+&lt;li&gt;If first time session has loaded, initialize system.&lt;/li&gt;
+&lt;li&gt;Compare current Xresource db against last saved hash, if different, reload GNOME settings from Xresources.&lt;/li&gt;
+&lt;li&gt;Execute i3 with first config file found from following list: &lt;code&gt;~/.config/regolith/i3/confg&lt;/code&gt;, &lt;code&gt;/etc/regolith/i3/config&lt;/code&gt;, &lt;code&gt;/etc/i3/config&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;i3 executes the UI components &lt;a href=&#34;https://github.com/davatorium/rofi&#34;&gt;Rofi&lt;/a&gt;, &lt;a href=&#34;https://github.com/regolith-linux/i3xrocks&#34;&gt;i3xrocks&lt;/a&gt;, &lt;a href=&#34;https://github.com/Airblader/unclutter-xfixes&#34;&gt;unclutter&lt;/a&gt;, regolith-compositor, &lt;a href=&#34;&#34;&gt;Rofication&lt;/a&gt;, and &lt;a href=&#34;https://github.com/regolith-linux/regolith-ftue&#34;&gt;regolith-ftue&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Packages</title>
+      <link>https://regolith-linux.org/regolith-site-r131/docs/reference/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://regolith-linux.org/regolith-site-r131/docs/reference/packages/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Package&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-snapshot&lt;/td&gt;
+&lt;td&gt;Save and restore window layouts.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks&lt;/td&gt;
+&lt;td&gt;A fork of i3blocks that enables Xresources integration.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-assets&lt;/td&gt;
+&lt;td&gt;An optional package with additional wallpaper.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-builder&lt;/td&gt;
+&lt;td&gt;Scripts and metadata for building and hosting Regolith.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-compositor-compton-glx&lt;/td&gt;
+&lt;td&gt;A compositor configuration for Picom (recently renamed from Compton).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-compositor-xcompmgr&lt;/td&gt;
+&lt;td&gt;A compositor configuration for xcompmgr.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-compositor-none&lt;/td&gt;
+&lt;td&gt;A compositor configuration for no compositor.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-desktop&lt;/td&gt;
+&lt;td&gt;The root meta package for Regolith by which all other default packages are referenced.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-gdm3-theme&lt;/td&gt;
+&lt;td&gt;An optional package for an updated login screen.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-gnome-flashback&lt;/td&gt;
+&lt;td&gt;A customization of &lt;code&gt;i3-gnome-flashback&lt;/code&gt; for Regolith.  Session init logic lives here.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-i3-gaps-config&lt;/td&gt;
+&lt;td&gt;Regolith&#39;s version of the i3 config file.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-i3xrocks-config&lt;/td&gt;
+&lt;td&gt;Configuration for the status indicators in the bar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-linux.github.io&lt;/td&gt;
+&lt;td&gt;This website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-rofication&lt;/td&gt;
+&lt;td&gt;A customization of the Rofication project.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-st&lt;/td&gt;
+&lt;td&gt;The st-term with some patches applied.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;regolith-styles&lt;/td&gt;
+&lt;td&gt;Metadata that describes the UI look in Regolith including several binary packages for specific looks.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;remontoire&lt;/td&gt;
+&lt;td&gt;A GTK+ keybinding viewer that integrates with i3.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;xrescat&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;cat&lt;/code&gt; for Xresources.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;diving-deeper&#34;&gt;Diving Deeper&lt;/h2&gt;
+&lt;p&gt;For those looking for more specifics, a machine-readable form of all packages and branch versions associated with a release are defined in &lt;a href=&#34;https://github.com/regolith-linux/regolith-builder&#34;&gt;this repo&lt;/a&gt;.  For example, R1.3&#39;s packages are defined &lt;a href=&#34;https://github.com/regolith-linux/regolith-builder/blob/master/package-model-R1.3.json&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Xresources</title>
+      <link>https://regolith-linux.org/regolith-site-r131/docs/reference/xresources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://regolith-linux.org/regolith-site-r131/docs/reference/xresources/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Xresource Key&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;St.color0 - St.color15&lt;/td&gt;
+&lt;td&gt;Color definitions for st-term&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;St.font&lt;/td&gt;
+&lt;td&gt;Font definition for st-term&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xcursor.size&lt;/td&gt;
+&lt;td&gt;X cursor size&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xcursor.theme&lt;/td&gt;
+&lt;td&gt;X cursor theme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xft.antialias&lt;/td&gt;
+&lt;td&gt;X anti-alias flag&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xft.dpi&lt;/td&gt;
+&lt;td&gt;X DPI setting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xft.hinting&lt;/td&gt;
+&lt;td&gt;X hinting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xft.hintstyle&lt;/td&gt;
+&lt;td&gt;X hint style&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Xft.rgba&lt;/td&gt;
+&lt;td&gt;X	rgb setting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gnome.gtk.theme&lt;/td&gt;
+&lt;td&gt;GTK Theme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gnome.icon.theme&lt;/td&gt;
+&lt;td&gt;GTK Icon Theme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gnome.wallpaper&lt;/td&gt;
+&lt;td&gt;GNOME Wallpaper (can be overridden in Settings)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gnome.wm.theme&lt;/td&gt;
+&lt;td&gt;GNOME Window Manager Theme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.background.color&lt;/td&gt;
+&lt;td&gt;Bar Background Color&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.font&lt;/td&gt;
+&lt;td&gt;Bar Font&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.trayoutput&lt;/td&gt;
+&lt;td&gt;Enable and describe screen on which to display &lt;a href=&#34;https://i3wm.org/docs/userguide.html#_tray_output&#34;&gt;app tray&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.position&lt;/td&gt;
+&lt;td&gt;Bar Screen Position&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.separator.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.statusline.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.active.background.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.active.border.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.active.text.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.focused.background.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.focused.border.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.focused.text.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.inactive.background.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.inactive.border.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.inactive.text.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.urgent.background.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.urgent.border.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.bar.workspace.urgent.text.color&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused.color.background&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused.color.border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused.color.child_border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused.color.indicator&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused.color.text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused_inactive.color.background&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused_inactive.color.border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused_inactive.color.child_border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused_inactive.color.indicator&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.focused_inactive.color.text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.unfocused.color.background&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.unfocused.color.border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.unfocused.color.child_border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.unfocused.color.indicator&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.unfocused.color.text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.urgent.color.background&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.urgent.color.border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.urgent.color.child_border&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.urgent.color.indicator&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.client.urgent.color.text&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.floatingwindow.border.size&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.font&lt;/td&gt;
+&lt;td&gt;Window Manager Font&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.gaps.inner.size&lt;/td&gt;
+&lt;td&gt;Default gap size between windows&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.gaps.outer.size&lt;/td&gt;
+&lt;td&gt;Default gap size at screen edge&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.window.border.size&lt;/td&gt;
+&lt;td&gt;Default border size&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3-wm.workspace.01.name .. i3-wm.workspace.19.name&lt;/td&gt;
+&lt;td&gt;Workspace Labels&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.critical.color&lt;/td&gt;
+&lt;td&gt;Color for bar module in critical mode&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.error.color&lt;/td&gt;
+&lt;td&gt;Color for bar module in error mode&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.battery0&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.battery100&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.battery20&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.battery50&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.battery80&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.batteryac&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.batterycharging&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.batteryunknown&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.capslock&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.color&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.cpu&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.dn&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.help&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.mediapaused&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.mediaplaying&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.memory&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.mute&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.notify.error&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.notify.none&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.notify.some&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.numlock&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.off&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.on&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.sound&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.thermometer&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.time&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.up&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.wifi&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.label.wired&lt;/td&gt;
+&lt;td&gt;Bar icon glyph&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.nominal&lt;/td&gt;
+&lt;td&gt;Default bar icon color&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.value.color&lt;/td&gt;
+&lt;td&gt;Color of numerical value in bar module&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.value.font&lt;/td&gt;
+&lt;td&gt;Font for numerical value in bar module&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;i3xrocks.warning&lt;/td&gt;
+&lt;td&gt;Warning color for bar module&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.drun-display-format&lt;/td&gt;
+&lt;td&gt;Fields to render in drun mode in Rofi&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.drun-icon-theme&lt;/td&gt;
+&lt;td&gt;Rofi icon theme&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.font&lt;/td&gt;
+&lt;td&gt;Rofi font&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.modi&lt;/td&gt;
+&lt;td&gt;Rofi modes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.show-icons&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.theme&lt;/td&gt;
+&lt;td&gt;Rofi theme file&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rofi.window-format&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Releases</title>
+      <link>https://regolith-linux.org/regolith-site-r131/docs/reference/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://regolith-linux.org/regolith-site-r131/docs/reference/releases/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Release notes and other version-specific content can be found here.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

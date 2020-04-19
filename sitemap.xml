@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/releases/regolith-1.3.1-release-notes/</loc>
+    <lastmod>2020-03-04T21:08:09-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/getting-started/install/</loc>
+    <lastmod>2020-04-05T21:55:07-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/keybindings/</loc>
+    <lastmod>2020-02-05T20:49:39-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/customize/look/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/developer/looks/</loc>
+    <lastmod>2020-03-05T08:03:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/override-xres/</loc>
+    <lastmod>2020-02-29T12:32:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/overview/</loc>
+    <lastmod>2020-04-01T21:44:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/policy-and-process/privacy/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/interface/apps/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/releases/regolith-1.3-release-notes/</loc>
+    <lastmod>2020-02-29T10:44:13-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/getting-started/basics/</loc>
+    <lastmod>2020-02-18T21:05:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/super-to-alt/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/configurations/</loc>
+    <lastmod>2020-04-01T21:16:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/getting-started/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/interface/notifications/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/packages/</loc>
+    <lastmod>2020-02-29T09:52:47-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/stage-configs/</loc>
+    <lastmod>2020-02-29T12:32:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/customize/styles/</loc>
+    <lastmod>2020-03-05T08:03:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/policy-and-process/updates/</loc>
+    <lastmod>2020-02-08T08:48:09-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/change-terminal/</loc>
+    <lastmod>2020-02-29T12:32:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/customize/compositors/</loc>
+    <lastmod>2020-04-01T21:16:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/policy-and-process/contributions/</loc>
+    <lastmod>2020-02-08T09:05:26-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/interface/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/policy-and-process/support/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/multiple-batteries/</loc>
+    <lastmod>2020-02-12T11:58:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/interface/system/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/interface/advanced/</loc>
+    <lastmod>2020-02-11T19:44:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/time-format/</loc>
+    <lastmod>2020-02-29T12:32:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/customize/components/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/customize/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/add-remove-blocklets/</loc>
+    <lastmod>2020-02-10T22:37:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/customize/packages/</loc>
+    <lastmod>2020-02-01T09:51:22-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/change-workspace-icons/</loc>
+    <lastmod>2020-03-15T11:50:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/remove-workspace-icons/</loc>
+    <lastmod>2020-03-16T09:59:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/xresources/</loc>
+    <lastmod>2020-04-11T16:53:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/change-ppa/</loc>
+    <lastmod>2020-02-08T08:48:09-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/reference/releases/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/replace-notification-system/</loc>
+    <lastmod>2020-03-06T08:23:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/terminal-font/</loc>
+    <lastmod>2020-02-29T12:32:02-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/howto/default-gap/</loc>
+    <lastmod>2020-04-01T21:44:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/</loc>
+    <lastmod>2020-02-11T19:44:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/download/</loc>
+    <lastmod>2020-03-12T08:14:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/index.json</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/developer/</loc>
+    <lastmod>2020-03-05T08:03:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/interact/</loc>
+    <lastmod>2020-02-13T08:29:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/docs/policy-and-process/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/</loc>
+    <lastmod>2020-03-15T11:50:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://regolith-linux.org/regolith-site-r131/search/</loc>
+    <lastmod>2020-01-29T20:12:55-08:00</lastmod>
+  </url>
+  
+</urlset>
